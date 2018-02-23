@@ -12,7 +12,8 @@
         "laravel/framework": "5.5.*",
         "laravel/tinker": "~1.0",
         "myservices/tcp_server_for_laravel": "^1.4",
-        "phpxmlrpc/phpxmlrpc": "4.0"
+        "phpxmlrpc/phpxmlrpc": "4.0",
+        "orangehill/iseed": "dev-master"
     },
     "require-dev": {
         "filp/whoops": "~2.0",
