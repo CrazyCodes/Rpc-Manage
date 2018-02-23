@@ -21,6 +21,12 @@ XML_PRC_URL=http://admin:admin@127.0.0.1:8888/RPC2 // Supervisor通信地址
 ### 迁移数据表
 ```
 php artisan migrate
+composer dump-autoload
+```
+
+### 数据填充
+```
+php artisan db:seed
 ```
 
 # Step 3
