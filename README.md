@@ -1,10 +1,14 @@
-# 第一步
+MyService 是一款服务治理架构的后台管理系统
+
+# Step 1
+```
 git clone https://github.com/CrazyCodes/Rpc-Manage.git
-# 第二步
+```
+# Step 2
 ```
 cp .env.example .env
 ```
-配置
+### 配置
 ```
 DB_HOST=dev_db
 DB_PORT=3306
@@ -15,7 +19,7 @@ DB_PASSWORD=root
 XML_PRC_URL=http://admin:admin@127.0.0.1:8888/RPC2 // Supervisor通信地址
 ```
 
-# 第三步
+# Step 3
 访问你的地址
 
 # 详细文档
